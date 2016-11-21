@@ -1,0 +1,1455 @@
+This is TeX, Version 3.1415926 (TeX Live 2011) (format=tex 2011.7.3)  17 SEP 2015 22:02
+**index.html
+(./index.html
+! You can't use `macro parameter character #' in horizontal mode.
+l.6 <body link="#
+                 0000B1" bgcolor="#FFFFFF">
+? :)
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? quit
+OK, entering \batchmode...
+! You can't use `macro parameter character #' in horizontal mode.
+l.6 <body link="#0000B1" bgcolor="#
+                                   FFFFFF">
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.10 <td bgcolor="#
+                   A8C6A8" width="20%"></td>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.20 <TD ><DD><a href="index.html#
+                                  classinfo"><STRONG>Class Information</STRO...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.21 <TD ><DD><a href="index.html#
+                                  lectures"><STRONG>Lectures </STRONG></a></TD>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (156.67451pt too wide) in paragraph at lines 18--22
+[]\tenrm <p> <TA-BLE CELL-PADDING=3 CELLSPAC-ING=0 BOR-DER=0 WIDTH="100<TD ><DD
+><a href="index.htmlclassinfo"><STRONG>Class|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm p
+.\tenrm >
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (51.36989pt too wide) in paragraph at lines 18--22
+\tenrm In-for-ma-tion</STRONG></a></TD> <TD ><DD><a href="index.htmllectures"><
+STRONG>Lectures </STRONG></a></TD> |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm I
+.\tenrm n
+.\discretionary
+..\tenrm -
+.\tenrm f
+.\tenrm o
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.23 <TD ><DD><a href="index.html#
+                                  papers"><STRONG>Reading List</STRONG></a><...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (3.88367pt too wide) in paragraph at lines 23--26
+[]\tenrm <TD ><DD><a href="index.htmlpapers"><STRONG>Reading List</STRONG></a><
+/TD> </TR></TABLE>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm T
+.\tenrm D
+.\glue 3.33333 plus 1.66498 minus 1.11221
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.29 <TR><TD bgcolor="#
+                       A8C6A8"><DD><a name="classinfo"><STRONG>Class Informa...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (51.93822pt too wide) in paragraph at lines 28--38
+[]\tenrm <TABLE CELL-PADDING=3 CELLSPAC-ING=0 BOR-DER=0 WIDTH="100<TR><TD bg-co
+lor="A8C6A8"><DD><a|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm T
+.\kern-0.83334
+.\tenrm A
+.etc.
+
+
+Overfull \hbox (1.0237pt too wide) in paragraph at lines 28--38
+\tenrm name="classinfo"><STRONG>Class In-for-ma-tion</STRONG></a></TD></TR> <TR
+><TD> <h5>Instructor</h5>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm n
+.\tenrm a
+.\tenrm m
+.\tenrm e
+.\tenrm =
+.etc.
+
+
+Overfull \hbox (238.80202pt too wide) in paragraph at lines 28--38
+\tenrm <ul> <a href="http://www.cs.purdue.edu/homes/crisn/">Cristina Nita-Rotar
+u</a> <br> Email: <a href="mailto:crisnATcs.purdue.edu">crisn@cs.purdue.edu</a>
+.<br>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm <
+.\tenrm u
+.\tenrm l
+.\tenrm >
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (58.30159pt too wide) in paragraph at lines 118--129
+\tenrm is in all courses at Pur-due Uni-ver-sity ( here is the <a href="http://
+www.purdue.edu/ODOS/administration/integrity.htm">|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm s
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm i
+.\tenrm n
+.etc.
+
+
+Overfull \hbox (207.26486pt too wide) in paragraph at lines 118--129
+\tenrm guide </a> for aca-demic in-tegrity). The class will be con-ducted ac-co
+rd-ing to the <a href="http://www.cerias.purdue.edu/homes/spaf/cpolicy.html">po
+licy</a>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm g
+.\tenrm u
+.\tenrm i
+.\tenrm d
+.\tenrm e
+.etc.
+
+ [1]
+! You can't use `macro parameter character #' in horizontal mode.
+l.137 <TR><TD bgcolor="#
+                        A8C6A8"><DD><a name="lectures"><STRONG>Lectures</STR...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (10.43918pt too wide) in paragraph at lines 137--143
+[]\tenrm <TR><TD bg-color="A8C6A8"><DD><a name="lectures"><STRONG>Lectures</STR
+ONG></a></TD></TR>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm T
+.\tenrm R
+.\tenrm >
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.147     <td bgcolor="#
+                        d9b8b8" width=290><font color="#000000">Week</font><...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.147 ...gcolor="#d9b8b8" width=290><font color="#
+                                                  000000">Week</font></td>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.148     <td bgcolor="#
+                        d9b8b8" width=450><font color="#000000">Monday</font...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.148 ...gcolor="#d9b8b8" width=450><font color="#
+                                                  000000">Monday</font></td>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.149     <td bgcolor="#
+                        d9b8b8" width=450><font color="#000000">Wednesday</f...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.149 ...gcolor="#d9b8b8" width=450><font color="#
+                                                  000000">Wednesday</font></td>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (56.2462pt too wide) in paragraph at lines 144--151
+[]\tenrm <br><br> <ta-ble width="100<tr><!--header --> <td bg-color="d9b8b8" wi
+dth=290><font color="000000">Week</font></td>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm b
+.\tenrm r
+.\tenrm >
+.etc.
+
+
+Overfull \hbox (35.88521pt too wide) in paragraph at lines 144--151
+\tenrm <td bg-color="d9b8b8" width=450><font color="000000">Monday</font></td> 
+<td bg-color="d9b8b8" width=450><font|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm <
+.\tenrm t
+.\tenrm d
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm b
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.154     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000">Week 1 (Aug....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.154 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000">Week 1 (Aug. 25) <...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.155     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.155 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_comm....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.155 ...h=400><font color="#000000"><a href="505_
+                                                  comm.pdf">Topic 1 </a> - I...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.156     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.156 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_time....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.158 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (334.56734pt too wide) in paragraph at lines 153--158
+\tenrm 400 \teni >< fontcolor \tenrm = "000000" \teni >< ahref \tenrm = "505[]\
+teni ime:pdf\tenrm " \teni > Topic\tenrm 2 \teni < =a > \tensy ^^@\teni Timeind
+istributedsystems\tenrm (\teni Lamportclocks; vectorclocks; NTP\tenrm )\teni :G
+lobalstatesanddistributedsnapshots: <|
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm 4
+.\tenrm 0
+.\tenrm 0
+.\glue(\thickmuskip) 2.77771 plus 2.77771
+.\teni >
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.160     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.160 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 2 (Sep...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.161     <td bgcolor="#
+                        magenta" width=400><font color="#000000"> No class b...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.161 ...color="#magenta" width=400><font color="#
+                                                  000000"> No class because ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.162     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Turret tuto...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.162 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Turret tutorial, ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.167     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"> Week 3 (Sep...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.167 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"> Week 3 (Sept. 8) ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.168     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Topic 2 - c...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.168 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Topic 2 - cont. <...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.169     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> <a href="50...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.169 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> <a href="505_cons...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.169 ...=400><font color="#000000"> <a href="505_
+                                                  consensus.pdf"> Topic 3 </...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.171 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (24.86963pt too wide) in paragraph at lines 166--171
+\tenrm Topic 2 - cont. </font> </td> <td bg-color="f4f7f7" width=400><font colo
+r="000000"> <a href="505$[]\teni onsensus:pdf\tenrm " \teni >|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm T
+.\kern-0.83334
+.\tenrm o
+.\tenrm p
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (102.4455pt too wide) in paragraph at lines 166--171
+\teni Topic\tenrm 3 \teni < =a > \tensy ^^@\teni Consensus \tenrm : \teni synch
+ronoussystems; asynchronoussystems; byzantinefailures\tenrm (\teni includingran
+domizedsolutions\tenrm )\teni : <|
+
+\hbox(7.5+2.5)x469.75499
+.\teni T
+.\kern1.3889
+.\teni o
+.\teni p
+.\teni i
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.174     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"> Week 4 (Sep...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.174 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"> Week 4 (Sept 15) ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.175     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000">Topic 3 - co...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.175 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000">Topic 3 - cont .</td>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.176     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Topic 3 - c...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.176 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Topic 3 - cont . ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (14.82947pt too wide) in paragraph at lines 173--178
+\tenrm <br> <font color="green">Prj1 as-signed </font></td> <td bg-color="f4f7f
+7" width=400><font color="000000">Topic|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm <
+.\tenrm b
+.\tenrm r
+.\tenrm >
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.180     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"> Week 5 (Sep...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.180 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"> Week 5 (Sept 22) ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.181     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> <a href="50...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.181 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> <a href="505_dist...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.181 ...=400><font color="#000000"> <a href="505_
+                                                  distributed_commit.pdf"> T...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.182     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Topic 4 - c...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.182 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Topic 4 - cont </...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.185 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.187     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"> Week 6 (Sep...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.187 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"> Week 6 (Sept. 29)...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.188     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> <a href="50...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.188 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> <a href="505_elec...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.188 ...=400><font color="#000000"> <a href="505_
+                                                  election_membership_multic...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.189     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Review for ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.189 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Review for Midter...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.191 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (203.86475pt too wide) in paragraph at lines 186--191
+\tenrm <a href="505$[]\teni lection[]embership[]ulticast:pdf\tenrm " \teni > To
+pic\tenrm 5 \teni < =a > \tensy ^^@\teni ProcessGroups \tenrm : \teni Leaderele
+ction; membership; reliablemulticast; virtualsynchrony: <|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm <
+.\tenrm a
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm h
+.\tenrm r
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.196     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"> Week 7 (Oct...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.196 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"> Week 7 (Oct. 6) <...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.197     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> MIDTERM in ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.197 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> MIDTERM in class ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.199     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000">Topic 5 - co...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.199 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000">Topic 5 - cont.</f...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.204     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000">Week 8 (Oct....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.204 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000">Week 8 (Oct. 13) <...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.205     <td bgcolor="#
+                        magenta" width=400><font color="#000000">No class be...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.205 ...color="#magenta" width=400><font color="#
+                                                  000000">No class because o...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.206    <td bgcolor="#
+                       f4f7f7" width=400><font color="#000000">Topic 5  - co...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.206 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000">Topic 5  - cont. <...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (13.71835pt too wide) in paragraph at lines 203--208
+\tenrm <br> <font color="green">Prj2 as-signed</font></td> <td bg-color="magent
+a" width=400><font color="000000">No|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm <
+.\tenrm b
+.\tenrm r
+.\tenrm >
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.210     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.210 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 9 (Oct...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.211     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000">Midterm retu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.211 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000">Midterm return. </...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.212     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.212 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_gossi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.212 ...h=400><font color="#000000"><a href="505_
+                                                  gossip.pdf">Topic 6</a> - ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.214 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (25.59811pt too wide) in paragraph at lines 209--214
+\tenrm 20) </td> <td bg-color="f4f7f7" width=400><font color="000000">Midterm r
+e-turn. </font></td> <td bg-color="f4f7f7"|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 2
+.\tenrm 0
+.\tenrm )
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm <
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.216     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.216 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 10 (Oc...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.217     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> <a href="50...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.217 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> <a href="505_quor...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.217 ...=400><font color="#000000"> <a href="505_
+                                                  quorums_paxos_vr.pdf">Topi...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.218     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Topic 7  - ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.218 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Topic 7  - cont. ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.220 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.32947pt too wide) in paragraph at lines 215--220
+\tenrm 27) <br> <font color="brown">Hw3 as-signed </font></td> <td bg-color="f4
+f7f7" width=400><font color="000000">|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 2
+.\tenrm 7
+.\tenrm )
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm <
+.etc.
+
+ [2]
+! You can't use `macro parameter character #' in horizontal mode.
+l.222     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.222 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 11 (No...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.223     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000">Topic 7 </a>...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.223 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000">Topic 7 </a> - con...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.224     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000">Topic 7 </a>...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.224 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000">Topic 7 </a> - con...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (15.41277pt too wide) in paragraph at lines 221--227
+\tenrm 3) <br> <br> <font color="green">Prj3 as-signed </td> <td bg-color="f4f7
+f7" width=400><font color="000000">Topic|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 3
+.\tenrm )
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm <
+.\tenrm b
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.229     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.229 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 12 (No...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.230     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.230 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_dht.p...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.230 ...h=400><font color="#000000"><a href="505_
+                                                  dht.pdf">Topic 8</a> - Dis...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.231     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> <a href="50...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.231 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> <a href="505_dfs....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.233 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.235     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.235 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 13 (No...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.236     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.236 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_gfs_h...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.236 ...h=400><font color="#000000"><a href="505_
+                                                  gfs_hdfs.pdf">Topic 10 </a...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.238     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.238 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_bt_hb...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.241 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (7.96512pt too wide) in paragraph at lines 234--241
+\tenrm (Nov. 17) </td> <td bg-color="f4f7f7" width=400><font color="000000"><a 
+href="505$[]\teni fs[]dfs:pdf\tenrm " \teni > Topic\tenrm 10 \teni <|
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\tenrm (
+.\tenrm N
+.\tenrm o
+.\kern-0.27779
+.\tenrm v
+.etc.
+
+
+Overfull \hbox (2.62213pt too wide) in paragraph at lines 234--241
+\teni =a > \tensy ^^@\teni GFS; HDFS: < =font >< =td >< tdbgcolor \tenrm = "\te
+ni f\tenrm 4\teni f\tenrm 7\teni f\tenrm 7"\teni width \tenrm = 400 \teni >< fo
+ntcolor \tenrm = "000000" \teni ><|
+
+\hbox(7.5+2.5)x469.75499
+.\teni =
+.\teni a
+.\glue(\thickmuskip) 2.77771 plus 2.77771
+.\teni >
+.\penalty 500
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.244     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.244 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 14 (No...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.245     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.245 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_chubb...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.245 ...h=400><font color="#000000"><a href="505_
+                                                  chubby_zook.pdf">Topic 12<...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.246     <td bgcolor="#
+                        magenta" width=400><font color="#000000">No class be...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.246 ...color="#magenta" width=400><font color="#
+                                                  000000">No class because o...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.249 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (5.86967pt too wide) in paragraph at lines 243--249
+\tenrm (Nov. 24) </font> </td> <td bg-color="f4f7f7" width=400><font color="000
+000"><a href="505$[]\teni hubby[]ook:pdf\tenrm " \teni >|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm (
+.\tenrm N
+.\tenrm o
+.\kern-0.27779
+.\tenrm v
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.251     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.251 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 15 (De...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.252     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000">Topic 12 </f...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.252 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000">Topic 12 </font></td>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.253     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"><a href="505...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.253 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"><a href="505_mr.pd...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.253 ...h=400><font color="#000000"><a href="505_
+                                                  mr.pdf"> Topic 13 - MapRed...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.255 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.257     <td bgcolor="#
+                        d9b8b8" width=150><font color="#000000"></font>Week ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.257 ...gcolor="#d9b8b8" width=150><font color="#
+                                                  000000"></font>Week 16 (De...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.258     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Review for ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.258 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Review for final....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.259     <td bgcolor="#
+                        f4f7f7" width=400><font color="#000000"> Review for ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.259 ...gcolor="#f4f7f7" width=400><font color="#
+                                                  000000"> Review for final....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (19.84808pt too wide) in paragraph at lines 256--261
+\tenrm 8)</td> <td bg-color="f4f7f7" width=400><font color="000000"> Re-view fo
+r fi-nal. </font></td> <td bg-color="f4f7f7"|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 8
+.\tenrm )
+.\tenrm <
+.\tenrm /
+.\tenrm t
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.269 <TR><TD bgcolor="#
+                        A8C6A8"><DD><a name="papers"><STRONG>Reading List</S...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (23.60593pt too wide) in paragraph at lines 269--272
+[]\tenrm <TR><TD bg-color="A8C6A8"><DD><a name="papers"><STRONG>Reading List</S
+TRONG></a></TD></TR>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm T
+.\tenrm R
+.\tenrm >
+.etc.
+
+ [3]
+! Misplaced alignment tab character &.
+l.321 <b>Copyright&
+                   copy; 2014 Cristina Nita-Rotaru</b>. Send your comments a...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.327 <td bgcolor="#
+                    A8C6A8" width="20%"></td>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> index.html
+              
+*** (job aborted, no legal \end found)
+
+Output written on index.dvi (3 pages, 18056 bytes).
