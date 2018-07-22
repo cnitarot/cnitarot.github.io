@@ -1,0 +1,347 @@
+<html>
+
+<head><title>Distributed Systems 
+</title></head>
+
+<body link="#0000B1" bgcolor="#FFFFFF">
+
+<TABLE WIDTH = "100%"> <TR VALIGN = TOP>
+
+<td bgcolor="Thistle" width="20%"></td>
+<td>
+<center>
+
+<H2>Distributed Systems <br> (CS 7610)</H2>
+<hr>
+</CENTER>
+
+<p>
+<TABLE CELLPADDING=3 CELLSPACING=0 BORDER=0 WIDTH="100%"><TR >
+<TD ><DD><a href="index.html#classinfo"><STRONG>Class Information</STRONG></a></TD>
+<TD ><DD><a href="index.html#lectures"><STRONG>Lectures </STRONG></a></TD>
+
+<TD ><DD><a href="index.html#papers"><STRONG>Reading List</STRONG></a></TD>
+</TR></TABLE>
+<br><br>
+
+
+<TABLE CELLPADDING=3 CELLSPACING=0 BORDER=0 WIDTH="100%">
+<TR><TD bgcolor="Thistle"><DD><a name="classinfo"><STRONG>Class Information</STRONG></a></TD></TR>
+<TR><TD>
+<h5>Instructor</h5>
+<ul>
+<a href="www.ccs.neu.edu/home/crisn">Cristina Nita-Rotaru</a> 
+<br>
+Email: <a href="mailto:c.nitarotaruATneu.edu">c.nitarotaru@northeastern.edu</a>.<br>
+</ul>
+
+
+<h5>Course Description</h5>
+
+This course is an introduction to distributed systems.
+The lectures will cover fundamental concepts in distributed
+systems showing how they are applied when building reliable
+distributed systems and services. Topics include:
+
+<ul>
+
+<li>
+How and why computers systems fail. How to overcome failures in a distributed system.
+Failures models. The distributed commit problem.
+
+<li>
+Clock synchronization and synchronous systems.
+
+<li>
+Dynamic membership. Replicating data with malicious failures. Impossibility of asynchronous consensus.
+
+<li>
+Group communication systems, properties and dynamic group membership.
+Causal and total order.
+<li>
+Virtually synchronous algorithms and tools: replicated data, state transfer, load-balancing, primary-backup and coordinator-cohort fault tolerance.
+
+<li>
+Transactional model and implementation of a transactional storage systems.
+Distributed transactions and multiphase commit.
+
+<li>
+Distributed hash tables.
+
+<li>
+Application of distributed systems concepts to real systems:
+files systems (GFS, HDFS), databases (BigTable, HBase, Spanner),
+lock services (Chubby, Zookeeper, Zab), computational services
+(MapReduce, Spark).
+
+<li>
+Applications of distributed systems to blockchains, digital currencies, credit, systems, smart contracts, and distributed ledgers.
+</ul>
+
+
+<h5>Grade</h5>
+
+The grade will be based on several written homework assignments (HW), 
+programming projects (PP), a final project (FP), and class
+participation (in class, piazza, office hours, etc) (CP)
+as follows:  <br>
+Grade = 30%*HW + 30%*PP + 30%*FP + 10%CP.
+
+<h5>Programming projects</h5>
+
+Programming language required is C, platform is Linux. 
+For the final project,  any programming language can be used.
+
+<h5>Textbooks and reading list</h5>
+<ul>
+<li> Reading will be assigned during each lecture, see also the list at the end of the page.
+<li>
+<a href="http://www.kohala.com/start/unpv12e.html">
+UNIX Network Programming, Volume 1, Second Edition: Networking APIs: Sockets and XTI, Prentice Hall, 1998, ISBN 0-13-490012-X.
+</a>W. Richard Stevens
+</ul>
+
+
+<h5>Academic Integrity</h5>
+<p>Academic Honesty and Ethical behavior are required in this course,
+as it is in all courses at Northeastern University. There is zero
+tolerance to cheating. 
+</p>
+
+<p>You are encouraged to talk with the professor about any questions
+you have about what is permitted on any particular assignment.</p>
+<br>
+</TD></tr>
+
+
+
+<TR><TD bgcolor="Thistle"><DD><a name="lectures"><STRONG>Lectures</STRONG></a></TD></TR>
+<TR><TD>
+<br>
+Lecture slides will be posted below. Homework and projects will be handed
+in class and/or posted on piazza. All class communication will take place on piazza.
+Preliminary plan and topics below.
+  
+<br><br>
+<table width="100%" cellspacing="1" cellpadding="8" border="0"><cols=3>
+  <tr><!--header -->
+    <td bgcolor="LightSteelBlue" width=190><font color="#000000">Week</font></td>
+    <td bgcolor="LightSteelBlue" width=750><font color="#000000">Topics</font></td>
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000">Homework</font></td>
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000">Project</font></td>
+  </tr>
+
+
+<tr><!-- week 1  Sept. 3, classes -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000">Week 1  </font></td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"><a
+    href="intro.pdf">Topic 1 </a> - Introduction. Class
+    policy. <br> 
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+
+<tr><!-- week 2  Sept. 10 -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"></font>Week 2  </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> <a href="ds_time.pdf"> Topic 2 </a>-
+    Time in distributed systems  (Lamport clocks, vector clocks, NTP).
+    Global states and distributed snapshots. Failure detectors. <br>
+    </font>
+    </td>
+    <td>Hw1 assigned</td>
+    <td></td>
+  </tr>
+
+<tr><!-- week 3  Sept. 17 -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"> Week 3  </font>   </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> 
+     <a href="consensus.pdf">Topic 3 </a> - Consensus: synchronous
+    systems, asynchronous systems, byzantine failures (including
+      randomized solutions).</font></td>
+      <td>Hw1 due.</td>
+    <td>Project 1 assigned.</td>
+    <td></td>
+  
+  </tr>
+
+
+<tr><!-- week 4  Sept 24, ICNP, I will be gone, have nothing due -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"> Week 4  </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> No class. Class makeup
+    for final project presentations.
+    </td>
+    <td></td>
+  </tr>
+
+<tr><!-- week 5  Oct. 1 -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"> Week 5 </font></td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> <a
+    href="2pc3pc.pdf"> Topic 4 </a> Distributed commit
+    (2PC and 3PC) </font></td>
+     <td><font color="brown"> Hw2 assigned  </font></td>
+    <td>Project 1 due </td>
+  </tr>
+
+<tr><!-- week 6  Oct 8, Oct 8 no class-->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"> Week 6 </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> <a href="election_membership_multicast.pdf"> Topic 5 </a> - Process Groups: Leader election, membership, reliable multicast, virtual synchrony. <br>
+        <td><font color="brown"> Hw2 due  </font></td>
+    <td><br> Project 2 assigned.  </td>
+</td>
+   
+    </td>
+  </tr>
+
+ <tr><!-- week 7 Oct. 15 -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000">Week 7 </td>
+   <td bgcolor="#f4f7f7" width=400><font color="#000000">  
+   <br><br> <a href="paxos.pdf"> Topic 6 </a> - Quorums. Paxos. Viewstamped replication. BFT. </font></td>
+   </font> </td>
+   <td></td>
+   <td><font color="green"></font></td>
+ </tr>
+ 
+<tr><!-- week 8  Oct 22-->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"> Week 8  </font></td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> 
+      <a href="p2p.pdf">Topic 7</a> -  Peer-to-peer overlays.  Gossip protocols. Distributed Hash Tables  </font>
+      </font>
+    </td>
+    <td> Hw3 assigned
+    <td>Project 2 due</td>
+    <td></td>
+ </tr>
+
+
+
+<tr><!-- week 9  Oct. 29 -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"></font>Week 9  </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> .</font> 
+    <a href="gfs_hdfs.pdf"> Topic 9 </a> - GFS, HDFS. </font><br><br>
+   </td>
+    <td>Hw3 due</td>
+    <td> Final project assigned/selected.</td>
+ </tr>
+
+<tr><!-- week 10 Nov. 5-->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"></font>Week 10  <br> </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"> </font>
+      <a href="bigtable_spanner.pdf">Topic 10 </a> -  BigTable, HBase, Spanner.</font
+    </td>
+    <td><font color="brown"> </font></td>
+    <td> </td>
+  </tr>
+
+<tr><!-- week 11 Nov. 12, Nov 12 no class-->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"></font>Week 11</td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000">
+     <a href="chubby.pdf"> Topic 11 </a> -  Chubby. Zookeeper. Zab
+    </td>
+    <td></td>
+    <td> </td>
+</td>
+  </tr>
+
+<tr><!-- week 12   Nov. 19, Nov 21 Thanksgiving break-->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"></font>Week 12 </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000"><a
+     <a href="mr_mesos"> Topic 12 </a> -  MapReduce. Spark. </font></td>
+     <td></td>
+     <td>Final project  milestones due. </td>
+  </tr>
+
+<tr><!-- week 13  Nov. 26 -->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"></font>Week 13  </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000">
+      <a href="bc.pdf"> Topic 13 </a> - Blockchains, digital currencies, credit systems, smart contracts, distributed ledgers.  </font></td>
+    <td></td>
+     <td></td>
+    </td>
+  </tr>
+
+
+<tr><!-- week 14  Dec. 4, Dec 5 last day of class-->
+    <td bgcolor="LightSteelBlue" width=150><font color="#000000"></font>Week 14 </font> </td>
+    <td bgcolor="#f4f7f7" width=400><font color="#000000">
+      <a href="bc_apps.pdf">Topic 14</a> - Bitcoin, Ripple, Etherum, Fabric. </a></font> <br></td>
+    <td></td>
+    <td>  Final project presentations due for comments and code submission at the beginning of the week.
+  Final project presentations in class in two additional classes (makeup for week 4). Date and time to be decided in class.</td>
+    </tr>
+
+</table>
+
+<br><br><br>
+
+<TD></TR>
+
+
+<TR><TD bgcolor="Thistle"><DD><a name="papers"><STRONG>Reading List</STRONG></a></TD></TR>
+<TR><TD>
+<br>
+
+<ol>
+
+
+<li> J. Gray. Why Do Computers Stop and What can be done about it? 1985.
+<li> Saltzer, Reed, Clark. End to end arguments in System Design.  TOCS 1990.
+<li> D. Oppenheimer, A.Ganapathi and D. A. Patterson. Why do Internet services fail, and what can be done about it? 2003.
+<li> L. Lamport for "Time, Clocks, and the Ordering of Events in a Distributed System," 
+      Communications of the ACM, July 1978,
+  21(7):558-565. E.W. Dijkstra Prize 2000, SIGOPS Hall of Fame.
+<li> Mattern, F. "Virtual Time and Global States of Distributed Systems", in Cosnard, M., Proc. Workshop on Parallel and Distributed Algorithms, Chateau de Bonas, France: Elsevier, pp. 215–226, 1988.
+
+<li> K. M. Chandy and L. Lamport, Distributed Snapshots: Determining Global States of Distributed Systems. ACM Transactions on Computer Systems, Vol. 3, No. 1, February, 1985, pp. 63-75. SIGOPS Hall of Fame.
+  <li> T. Chandra and S. Toueg. Unreliable Failure Detectors for Reliable Distributed Systems,  1996.
+
+  <li>  J. Halpern and Y. Moses Knowledge and Common Knowledge in a Distributed Environment  E.W. Dijkstra Prize 2009.
+
+<li> M.J.Fischer, N.A.Lynch and M.S. Paterson. Impossibility of Distributed Consensus with One Faulty Process. ACM SPDS 1983. 
+     E.W. Dijkstra Prize, 2001.
+
+<li> L. Lamport, R. Shostak, and M. Pease. The Byzantine Generals Problem 
+     ACM Transactions on Programming Languages and Systems 4(3):382-401, July 1982.
+<li> M. Ben-Or. Another advantage of free choice (Extended Abstract): Completely asynchronous agreement protocol. PODC '83. 
+<li> K. P. Birman and T. A. Joseph. Exploiting virtual synchrony in distributed systems. 
+       In Proceedings of the ACM Symposium on OS Principles, pages 123--138, Austin, TX, 1987.
+<li>  L. E. Moser, Y. Amir, P. M. Melliar-Smith, D. A. Agarwal, Extended Virtual Synchrony, 
+      The 14th IEEE International Conference on Distributed Computing Systems (ICDCS) 1994.
+<li> Bernstein, Goodman and Hadzilakos. Distributed Recovery
+<li> D. Skeen. Non-blocking Commit Protocols
+<li> D. Skeen. Determining the Last Process to Fail
+<li> F.B. Schneider. The State Machine Approach. SIGOPS Hall of Fame.
+<li> T. Bressoud and F.B. Schneider Hypervisor-based Fault-Tolerance.
+<li> E. Elnozahy, L. Alvisi, Y.M.Wang, and D.B. Johnson. A Survey of Rollback Recovery Protocols in Message Passing Systems
+<li>  L. Lamport: Paxos Made Simple
+<li> L. Lamport: The Part-Time Parliament  SIGOS Hall of Fame
+<li> K.P. Birman, M. Hayden, O. Ozkasap, Z. Xiao, M. Budiu, and Y. Minsky. Bimodal Multicast.
+<li> D. Malkhi and M. Reiter  Byzantine Quorum Systems
+<li> L. Lamport, R. Shostak, and M. Pease The Byzantine Generals Problem  E.W. Dijkstra Prize, 2005.
+<li> M. Castro and B. Liskov Practical Byzantine Fault-Tolerance 
+<li>  Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, H. Balakrishnan, 
+        Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications, SIGCOMM 2001.
+<li> Google File System. S, Ghemawat, H. Gobioff and S.-T. Leung. SOSP 2003.
+<li> The Chubby Lock Service for Loosely-Coupled Distributed Systems. Mike Burrows, OSDI 2006
+
+
+</ol>
+<br><br>
+<TD></TR>
+
+</TABLE>
+
+<hr>
+<small>
+<b>Copyright&copy; 2014 Cristina Nita-Rotaru</b>. Send your comments and questions to <a href="mailto:crisn@cs.purdue.edu">Cristina Nita-Rotaru
+</a></small>
+
+
+</td>
+
+<td bgcolor="Thistle" width="20%"></td>
+</TR>
+</TABLE>
+
+
+
