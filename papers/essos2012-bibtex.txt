@@ -1,0 +1,10 @@
+@inproceedings{Potharaju_essos_2012,
+ author = {Potharaju, Rahul and Newell, Andrew and Nita-Rotaru, Cristina and Zhang, Xiangyu},
+ title = {Plagiarizing smartphone applications: attack strategies and defense techniques},
+ booktitle = {Proceedings of the 4th international conference on Engineering Secure Software and Systems},
+ series = {ESSoS'12},
+ year = {2012},
+ pages = {106--120},
+ doi = {10.1007/978-3-642-28166-2_11},
+ publisher = {Springer-Verlag},
+}

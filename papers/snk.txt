@@ -1,0 +1,6 @@
+@inproceedings{newell2012split,
+  author =       {Andrew Newell and Cristina Nita-Rotaru},
+  title =        {Split Null Keys: A Null Space Based Defense for Pollution Attacks in Wireless Network Coding},
+  booktitle =    {Proc. of IEEE Communications Society Conference on Sensor, Mesh, and Ad Hoc Communications and Networks (SECON)},
+  year =         {2012}
+}

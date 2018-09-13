@@ -1,0 +1,9 @@
+@article{dong2012pollution,
+  author =     {Jing Dong and Reza Curtmola and Cristina Nita-Rotaru and David Yau},
+  title =      {Pollution Attacks and Defense in Inter-flow Network Coding Systems},
+  journal =    {IEEE Transactions on Dependable and Secure Systems},
+  volume =     {9},
+  issue =      {5},
+  month =      {September},
+  year =       {2012}
+}

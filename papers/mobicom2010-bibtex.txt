@@ -1,0 +1,12 @@
+@article{Potharaju_pandora_2010,
+ author = {Potharaju, Rahul and Nita-Rotaru, Cristina},
+ title = {Pandora: a platform for worm simulations in mobile ad-hoc networks},
+ journal = {SIGMOBILE Mob. Comput. Commun. Rev.},
+ issue_date = {October 2010},
+ volume = {14},
+ number = {4},
+ year = {2010},
+ pages = {16--18},
+ doi = {10.1145/1942268.1942275},
+ publisher = {ACM},
+} 

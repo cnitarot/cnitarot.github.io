@@ -1,0 +1,9 @@
+@article{dong2011practical,
+  author =     {Jing Dong and Reza Curtmola and Cristina Nita-Rotaru},
+  title =      {Practical Defenses Against Pollution Attacks in Wireless Network Coding},
+  journal =    {ACM Transactions on Systems and Information Security},
+  volume =     {14},
+  issue =      {1},
+  month =      {May},
+  year =       {2011}
+}

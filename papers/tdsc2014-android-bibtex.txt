@@ -1,0 +1,9 @@
+@article{gates2014generating,
+author = {Christopher S. Gates and Ninghui Li and Hao Peng and Bhaskar Sarma and Yuan Qi and Rahul Potharaju and Cristina Nita-Rotaru and Ian Molloy},
+title = {Generating Summary Risk Scores for Mobile Applications},
+journal ={IEEE Transactions on Dependable and Secure Computing},
+volume = {11},
+number = {3},
+year = {2014},
+pages = {238-251},
+}

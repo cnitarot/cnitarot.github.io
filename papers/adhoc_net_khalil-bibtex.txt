@@ -1,0 +1,7 @@
+@article{adhoc_khalil,
+  author =       {I. Khalil and S. Bagchi and C. Nita-Rotaru and N. B Schroff},
+  title =        {Detection, Diagnosis, and Isolation of Control and Data Attacks in Sensor Networks},
+  journal =      {Ad Hoc Networks (Elsevier)},
+  month =        {June},
+  year =         {2009},
+}

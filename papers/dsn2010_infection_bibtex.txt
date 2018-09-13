@@ -1,0 +1,6 @@
+@INPROCEEDINGS{Rahul_DSN2010_Infection,
+author = {Rahul Potharaju},
+title = {Infection Quarantining for Wireless Networks Using Power Control},
+booktitle = {International Conference on Dependable Systems and Networks (DSN)},
+year = {2010},
+}

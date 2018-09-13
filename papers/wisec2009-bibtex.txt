@@ -1,0 +1,7 @@
+@inproceedings{dong-wisec09,
+    author = {Jing Dong and Reza Curtmola and Cristina Nita-Rotaru},
+    title = {Practical Defenses Against Pollution Attacks in Intra-Flow Network Coding for Wireless Mesh Networks},
+    booktitle = {WiSec '09: Proceedings of the second ACM conference on Wireless network security},
+    year = {2009},
+    location = {Zurich, Switzerland},
+}

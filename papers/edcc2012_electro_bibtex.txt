@@ -1,0 +1,7 @@
+@INPROCEEDINGS{Ghica_edcc_electro,
+author = {O. C. Ghica and C. Nita-Rotaru and G. Trajcevsky and P. Scheuermann},
+title = {Security of Electrostatic Field Persistent Routing: Attacks and Defense Mechanisms},
+booktitle = {Ninth European Dependable Computing Conference (EDCC) 2012},
+year = {2012},
+}
+

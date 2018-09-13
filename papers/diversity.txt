@@ -1,0 +1,6 @@
+@inproceedings{newell2013increasing,
+  author =       {Andrew Newell and Daniel Obenshain and Tom Tantillo and Cristina Nita-Rotaru and Yair Amir},
+  title =        {Increasing Network Resiliency by Optimally Assigning Diverse Variants to Routing Nodes},
+  booktitle =    {The 43rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks},
+  year =         {2013}
+}

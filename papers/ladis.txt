@@ -1,0 +1,6 @@
+@inproceedings{obenshain2012intrusion,
+  author =       {Daniel Obenshain and Tom Tantillo and Andrew Newell and Cristina Nita-Rotaru and Yair Amir},
+  title =        {Intrusion-Tolerant Cloud Monitoring and Control},
+  booktitle =    {Large-Scale Distributed Systems and Middleware (LADIS)},
+  year =         {2012}
+}

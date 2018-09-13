@@ -1,0 +1,12 @@
+@ARTICLE{dong-wowmom08,
+    author={Jing Dong and Ackermann Kurt Erik and Nita-Rotaru Cristina},
+    title={Secure group communication in wireless mesh networks},
+    journal={World of Wireless, Mobile and Multimedia Networks, 2008. WoWMoM 2008. 2008 International Symposium on a},
+    year={2008},
+    month={June},
+    volume={},
+    number={},
+    pages={1-8},
+    doi={10.1109/WOWMOM.2008.4594843},
+    ISSN={}, 
+}

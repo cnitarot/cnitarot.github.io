@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Secon_Curtmola, 
+author={Curtmola, R. and Nita-Rotaru, C.}, 
+booktitle={Sensor, Mesh and Ad Hoc Communications and Networks, 2007. SECON '07. 4th Annual IEEE Communications Society Conference on}, 
+title={BSMR: Byzantine-Resilient Secure Multicast Routing in Multi-hop Wireless Networks}, 
+year={2007}, 
+month={june}, 
+pages={263 -272}, 
+keywords={BSMR;byzantine-resilient secure multicast routing;multihop wireless networks;telecommunication security;multicast protocols;radio networks;routing protocols;telecommunication security;}, 
+doi={10.1109/SAHCN.2007.4292838}, 
+}

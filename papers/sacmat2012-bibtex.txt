@@ -1,0 +1,9 @@
+@inproceedings{Sarma_sacmat_2012,
+ author = {Sarma, Bhaskar Pratim and Li, Ninghui and Gates, Chris and Potharaju, Rahul and Nita-Rotaru, Cristina and Molloy, Ian},
+ title = {Android permissions: a perspective combining risks and benefits},
+ booktitle = {Proceedings of the 17th ACM symposium on Access Control Models and Technologies},
+ series = {SACMAT '12},
+ year = {2012},
+ pages = {13--22},
+ publisher = {ACM},
+} 

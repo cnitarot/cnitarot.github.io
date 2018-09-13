@@ -1,0 +1,8 @@
+@article{hoque2015taming,
+title = "Taming epidemic outbreaks in mobile adhoc networks",
+journal = "Ad Hoc Networks",
+volume = "24, Part A",
+number = "0",
+pages = "57 - 72",
+year = "2015"
+}

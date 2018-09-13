@@ -1,0 +1,7 @@
+@inproceedings{Peng2012Android,
+    author = {H. Peng, C. Gates, B. Sarma, N. Li, A. Qi, R. Potharaju, C. Nita-Rotaru and I. Molloy},
+    title = {Using Probabilistic Generative Models For Ranking Risks of Android Apps},
+    booktitle = {Proceedings of the 19th ACM Conference on Computer and Communications Security (CCS 2012)},
+    year = {2012},
+    location = {North Carolina, USA},
+}

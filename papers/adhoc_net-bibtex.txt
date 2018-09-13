@@ -1,0 +1,9 @@
+@article{adhoc_dong,
+  author =       {Jing Dong and Kurt Erik Ackermann and Cristina Nita-Rotaru},
+  title =        {Secure Group Communication in Wireless Mesh Networks},
+  journal =      {Ad Hoc Networks (Elsevier), Special Issue: Privacy and Security in Wireless Sensor and Ad Hoc Networks},
+  volume =       {7},
+  issue =        {8},
+  month =        {November},
+  year =         {2009},
+}

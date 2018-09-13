@@ -1,0 +1,17 @@
+@article{Khalil2010,
+ author = {Khalil, Issa and Bagchi, Saurabh and Rotaru, Cristina N. and Shroff, Ness B.},
+ title = {UnMask: Utilizing neighbor monitoring for attack mitigation in multihop wireless sensor networks},
+ journal = {Ad Hoc Netw.},
+ volume = {8},
+ issue = {2},
+ month = {March},
+ year = {2010},
+ issn = {1570-8705},
+ pages = {148--164},
+ numpages = {17},
+ doi = {10.1016/j.adhoc.2009.06.002},
+ publisher = {Elsevier Science Publishers B. V.},
+ address = {Amsterdam, The Netherlands, The Netherlands},
+ keywords = {Control attack, Data attack, Neighbor monitoring, Secure routing, Sensor network security},
+} 
+

@@ -1,0 +1,6 @@
+@inproceedings{yao2011key,
+  author =       {Hongyi Yao and Tracey Ho and Cristina Nita-Rotaru},
+  title =        {Key Agreement for Wireless Networks in the Presence of Active Adversaries},
+  booktitle =    {Asilomar Conference on Signals, Systems, and Computers},
+  year =         {2011}
+}

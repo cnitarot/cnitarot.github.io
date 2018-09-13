@@ -1,0 +1,8 @@
+@inproceedings{dong-secon08,
+    author = {Jing Dong and Reza Curtmola and Cristina Nita-Rotaru},
+    title = {On the Pitfalls of Using High-Throughput Multicast Metrics in Adversarial Wireless Mesh Networks},
+    booktitle ={Sensor, Mesh and Ad Hoc Communications and Networks, 2008. SECON '08. 5th Annual IEEE Communications Society Conference on},
+    month={June},
+    year = {2008},
+    location = {San Francisco, CA, USA},
+}

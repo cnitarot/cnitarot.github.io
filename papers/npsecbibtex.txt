@@ -1,0 +1,9 @@
+@ARTICLE{dong-npsec08,
+    author={Jing Dong and Reza Curtmola and Ruben Sethi and Cristina Nita-Rotaru},
+    title={Toward Secure Network Coding in Wireless Networks: Threats and Challenges},
+    journal={Secure Network Protocols, 2008. NPSec 2008. 3rd IEEE Workshop on},
+    year={2008},
+    month={Oct.},
+    volume={},
+    number={},
+}

@@ -1,0 +1,9 @@
+@article{comcom_dong,
+  author =       {Jing Dong and Reza Curtmola and Cristina Nita-Rotaru},
+  title =        {Secure Network Coding for Wireless Mesh Networks: Threats, Challenges, and Directions},
+  journal =      {Computer Communications (Elsevier)},
+  volume =       {32},
+  issue =        {17},
+  month =        {November},
+  year =         {2009},
+}

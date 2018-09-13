@@ -1,0 +1,6 @@
+@inproceedings{newell2012entropy,
+  author =       {Andrew Newell and Reza Curtmola and Cristina Nita-Rotaru},
+  title =        {Entropy Attacks and Countermeasures in Wireless Network Coding},
+  booktitle =    {ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)},
+  year =         {2012}
+}

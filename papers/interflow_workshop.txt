@@ -1,0 +1,6 @@
+@inproceedings{dong2010pollution,
+  author =       {Jing Dong and Reza Curtmola and Cristina Nita-Rotaru and David Yau},
+  title =        {Pollution Attacks and Defenses in Wireless Inter-flow Network Coding Systems},
+  booktitle =    {Workshop on Wireless Network Coding with SECON},
+  year =         {2010}
+}

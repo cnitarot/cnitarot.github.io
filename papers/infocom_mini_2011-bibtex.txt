@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Paris2011, 
+author={Paris, S. and Nita-Rotaru, C. and Martignon, F. and Capone, A.}, 
+booktitle={INFOCOM, 2011 Proceedings IEEE}, 
+title={EFW: A cross-layer metric for reliable routing in wireless mesh networks with selfish participants}, 
+year={2011}, 
+month={april}, 
+pages={576 -580}, 
+doi={10.1109/INFCOM.2011.5935230}, 
+ISSN={0743-166X},}

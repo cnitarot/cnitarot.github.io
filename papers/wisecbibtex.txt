@@ -1,0 +1,12 @@
+@inproceedings{dong-wisec08,
+    author = {Jing Dong and Kurt E. Ackermann and Brett Bavar and Cristina Nita-Rotaru},
+    title = {Mitigating attacks against virtual coordinate based routing in wireless sensor networks},
+    booktitle = {WiSec '08: Proceedings of the first ACM conference on Wireless network security},
+    year = {2008},
+    isbn = {978-1-59593-814-5},
+    pages = {89--99},
+    location = {Alexandria, VA, USA},
+    doi = {http://doi.acm.org/10.1145/1352533.1352548},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+}

@@ -1,0 +1,6 @@
+@techreport{newell2013increasing-tr,
+  author =       {Andrew Newell and Tom Tantillo and Daniel Obenshain and Cristina Nita-Rotaru and Yair Amir},
+  title =        {Increasing Network Resiliency by Optimally Assigning Diverse Variants to Routing Nodes},
+  booktitle =    {Technical Report CNDS-2013-1}
+  year =         {2013}
+}

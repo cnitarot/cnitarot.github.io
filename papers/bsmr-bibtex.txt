@@ -1,0 +1,14 @@
+@ARTICLE{4624271,
+title={BSMR: Byzantine-Resilient Secure Multicast Routing in Multihop Wireless Networks},
+author={Curtmola, R. and Nita-Rotaru, C.},
+journal={Mobile Computing, IEEE Transactions on},
+year={2009},
+month={April },
+volume={8},
+number={4},
+pages={445-459},
+keywords={computer networks, multicast protocols, radiocommunication, routing protocols, security of data, telecommunication securityBSMR, Byzantine attack, Byzantine-resilient secure multicast routing, multihop wireless networks, on-demand multicast routing protocols, software-based solution},
+doi={10.1109/TMC.2008.134},
+ISSN={1536-1233}, }
+
+
